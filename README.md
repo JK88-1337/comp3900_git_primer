@@ -17,7 +17,7 @@ This exercise is worth 2% of your course grade.
 
 ```
 repository/
-├── main.py
+├── app.py
 ├── templates/
 │   ├── index.html
 │   └── calculator.html
